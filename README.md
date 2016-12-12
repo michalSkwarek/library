@@ -1,2 +1,2 @@
 # library
-Library is a project management books with implementation of the stack.
+Library is a project management books that uses implementation of the stack.
